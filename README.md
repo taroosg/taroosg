@@ -27,6 +27,7 @@ Lecture for beginners...
 
 ## Interests
 
+- Typescript
 - React
 - NestJS
 - Firebase
