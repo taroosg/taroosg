@@ -2,8 +2,6 @@
 
 Hi, I'm Taro Osg
 
-- A chief lecturer of G's ACADEMY FUKUOKA.
-
 - From 2018 in Fukuoka, Japan
 
 ## 💻 Works
