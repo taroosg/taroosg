@@ -6,18 +6,7 @@ Hi, I'm Taro Osg
 
 ## 💻 Works
 
-G's ACADEMY FUKUOKA 主任講師
-
-- 🎓 DEV コース
-
-  - HTML, CSS
-  - JavaScript
-  - Firebase
-  - PHP
-  - SQL
-  - Laravel
-
-- 🎓 LAB コース
+- 🎓 G's ACADEMY FUKUOKA 主任講師
   - HTML, CSS
   - JavaScript
   - Firebase
@@ -26,6 +15,11 @@ G's ACADEMY FUKUOKA 主任講師
   - Laravel
   - React
   - Node.js
+- 🎓 エンジニア
+  - Laravel
+  - JavaScript
+  - DB設計
+  - 画面設計
 
 ## 📚 History
 
@@ -35,14 +29,12 @@ G's ACADEMY FUKUOKA 主任講師
 - 医療系メーカー（企画 && 設計 && 開発）
 - G's ACADEMY TOKYO チューター @東京
 - G's ACADEMY FUKUOKA 講師 @福岡
+- エンジニア（Laravelメイン） @リモート
 
 ## ⭐ Interests
 
-- TypeScript（自分で開発するときはだいたいこれ）
-- React（フロントはだいたいこれ）
-- Next.js（これから実戦投入）
-- NestJS（サーバはだいたいこれ）
-- Firebase（とりあえず作りたいときによく使う）
+- TypeScript
+- Deno, Fresh
 - Rust（最近ちょっと触ってる）
 
 ## 🥃 Like
