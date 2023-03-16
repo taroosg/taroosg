@@ -40,6 +40,7 @@
 
 Hi, I'm Taro Osg
 
+- [https://twitter.com/taroosg](https://twitter.com/taroosg)
 - From 2018 in Fukuoka, Japan
 
 ## 💻 Works
