@@ -38,8 +38,7 @@
 -->
 
 
-Hi, I'm Taro Osg
-
+- Taro Ohsugi
 - [https://twitter.com/taroosg](https://twitter.com/taroosg)
 - From 2018 in Fukuoka, Japan
 
