@@ -1,26 +1,61 @@
 # 👾 About Me
 
+<!--
+```json
+{
+  "name": "Taro Ohsugi",
+  "works" : [
+    {
+      "work": "🎓 G's ACADEMY FUKUOKA 主任講師",
+      "skills": [
+        "JavaScript",
+        "React",
+        "PHP",
+        "Laravel"
+      ]
+    },
+    {
+      "work": "🎓 エンジニア",
+      "skills": [
+        "Laravel",
+        "JavaScript",
+        "画面設計",
+        "DB設計"
+      ]
+    }
+  ],
+  "interests": [
+    "TypeScript",
+    "Deno",
+    "Fresh",
+    "Rust"
+  ],
+  "like": [
+    ["💻", "📚", "✈", "🥃"]
+  ]
+}
+```
+-->
+
+
 Hi, I'm Taro Osg
 
 - From 2018 in Fukuoka, Japan
 
 ## 💻 Works
 
-- 🎓 G's ACADEMY FUKUOKA 主任講師
-  - HTML, CSS
-  - JavaScript
-  - Firebase
-  - PHP
-  - SQL
-  - Laravel
-  - React
-  - Node.js
-- 🎓 エンジニア
-  - Laravel
-  - JavaScript
-  - DB設計
-  - 画面設計
+### 🎓 G's ACADEMY FUKUOKA 主任講師
 
+```
+["JavaScript","React","PHP","Laravel"]
+```
+### 🎓 エンジニア
+
+```
+["Laravel","JavaScript","DB設計","画面設計"]
+```
+
+<!--
 ## 📚 History
 
 - 茨城県出身
@@ -30,19 +65,16 @@ Hi, I'm Taro Osg
 - G's ACADEMY TOKYO チューター @東京
 - G's ACADEMY FUKUOKA 講師 @福岡
 - エンジニア（Laravelメイン） @リモート
+-->
 
 ## ⭐ Interests
 
-- TypeScript
-- Deno, Fresh
-- Rust（最近ちょっと触ってる）
+```
+["TypeScript","Deno","Fresh","Rust"]
+```
 
 ## 🥃 Like
 
-- 💻 パソコン
-- 🔗 インターネット
-- 📷 写真
-- 📚 読書
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Islay Whiskey
-- 🥃 Craft Gin
-- ☕ Coffee
+```
+["💻", "📚", "🛩️ 🚌 🚅 🚃", "🥃 🍷 🍺", "🚮"]
+```
