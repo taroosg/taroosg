@@ -44,7 +44,7 @@
 
 ## 💻 Works
 
-### 🎓 G's ACADEMY FUKUOKA 主任講師
+### 🎓 プログラミング講師
 
 ```
 ["JavaScript","React","PHP","Laravel"]
