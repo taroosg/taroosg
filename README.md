@@ -55,10 +55,11 @@ TypeScript, Deno, Fresh, Rust, Nostr
 
 ## 🔗 Links
 
-🕊 [Twitter](https://twitter.com/taroosg)
-
 📝 [Blog](https://taroosg.dev/)
 
+🕊 [Twitter](https://twitter.com/taroosg)
+
+🪧 [Threads](https://threads.net/@taroosg)
 
 ## 🖊 Works
 
