@@ -1,4 +1,4 @@
-# 👾 About Me
+## 👾 Profile
 
 <!--
 ```json
@@ -37,44 +37,39 @@
 ```
 -->
 
+### 📝 Name
 
-- Taro Ohsugi
-- [https://twitter.com/taroosg](https://twitter.com/taroosg)
-- From 2018 in Fukuoka, Japan
+Taro Ohsugi
 
-## 💻 Works
+### ⚡ Skills
+
+HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, Deno, Fresh, Rust
+
+### ⭐ Interests
+
+TypeScript", Deno, Fresh, Rust, Nostr
+
+### 🥃 Like
+
+💻, 📚, 🛩️ 🚌 🚅 🚃, 🥃 🍷 🍺, 🚮
+
+## 🔗 Links
+
+🕊 [Twitter](https://twitter.com/taroosg)
+
+📝 [Blog](https://taroosg.dev/)
+
+
+## 🖊 Works
 
 ### 🎓 プログラミング講師
 
-```
-["JavaScript","React","PHP","Laravel"]
-```
-### 🎓 エンジニア
+HTML, CSS, JavaScript, React, PHP, Laravel
 
-```
-["Laravel","JavaScript","DB設計","画面設計"]
-```
+### 💻 エンジニア
 
-<!--
-## 📚 History
+Laravel, JavaScript, DB設計, 画面設計
 
-- 茨城県出身
-- 北海道大学工学部卒業
-- 北海道大学大学院情報科学研究科修了
-- 医療系メーカー（企画 && 設計 && 開発）
-- G's ACADEMY TOKYO チューター @東京
-- G's ACADEMY FUKUOKA 講師 @福岡
-- エンジニア（Laravelメイン） @リモート
--->
 
-## ⭐ Interests
 
-```
-["TypeScript","Deno","Fresh","Rust"]
-```
 
-## 🥃 Like
-
-```
-["💻", "📚", "🛩️ 🚌 🚅 🚃", "🥃 🍷 🍺", "🚮"]
-```
