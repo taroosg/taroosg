@@ -47,11 +47,11 @@ HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, Deno, Fresh, Rust
 
 ### ⭐ Interests
 
-TypeScript", Deno, Fresh, Rust, Nostr
+TypeScript, Deno, Fresh, Rust, Nostr
 
 ### 🥃 Like
 
-💻, 📚, 🛩️ 🚌 🚅 🚃, 🥃 🍷 🍺, 🚮
+コンピュータ，読書（歴史，技術，哲学），旅行（飛行機，バス，鉄道），酒（🥃，🍷，🍺），断捨離
 
 ## 🔗 Links
 
