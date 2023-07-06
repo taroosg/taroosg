@@ -61,6 +61,8 @@ TypeScript, Deno, Fresh, Rust, Nostr
 
 🪧 [Threads](https://threads.net/@taroosg)
 
+🔷 [bsky](https://bsky.app/profile/taroosg.bsky.social)
+
 ## 🖊 Works
 
 ### 🎓 プログラミング講師
