@@ -43,11 +43,11 @@ Taro Ohsugi
 
 ### ⚡ Skills
 
-HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel, Deno, Fresh, Rust
+HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel
 
 ### ⭐ Interests
 
-TypeScript, Deno, Fresh, Rust, Nostr
+Deno, Rust
 
 ### 🥃 Like
 
@@ -58,10 +58,6 @@ TypeScript, Deno, Fresh, Rust, Nostr
 📝 [Blog](https://taroosg.dev/)
 
 🕊 [Twitter](https://twitter.com/taroosg)
-
-🪧 [Threads](https://threads.net/@taroosg)
-
-🔷 [bsky](https://bsky.app/profile/taroosg.bsky.social)
 
 ## 🖊 Works
 
