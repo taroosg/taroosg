@@ -55,7 +55,7 @@ Deno, Rust
 
 ## 🔗 Links
 
-📝 [Blog](https://taroosg.dev/)
+📝 [Blog](https://zenn.dev/taroosg/)
 
 🕊 [Twitter](https://twitter.com/taroosg)
 
