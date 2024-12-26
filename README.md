@@ -1,42 +1,5 @@
 ## 👾 Profile
 
-<!--
-```json
-{
-  "name": "Taro Ohsugi",
-  "works" : [
-    {
-      "work": "🎓 G's ACADEMY FUKUOKA 主任講師",
-      "skills": [
-        "JavaScript",
-        "React",
-        "PHP",
-        "Laravel"
-      ]
-    },
-    {
-      "work": "🎓 エンジニア",
-      "skills": [
-        "Laravel",
-        "JavaScript",
-        "画面設計",
-        "DB設計"
-      ]
-    }
-  ],
-  "interests": [
-    "TypeScript",
-    "Deno",
-    "Fresh",
-    "Rust"
-  ],
-  "like": [
-    ["💻", "📚", "✈", "🥃"]
-  ]
-}
-```
--->
-
 ### 📝 Name
 
 Taro Ohsugi
@@ -47,7 +10,7 @@ HTML, CSS, JavaScript, TypeScript, React, PHP, Laravel
 
 ### ⭐ Interests
 
-Deno, Rust
+Rust, Deno
 
 ### 🥃 Like
 
