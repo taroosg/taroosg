@@ -6,7 +6,7 @@ Taro Ohsugi
 
 ### ⚡ Skills
 
-Rust, Axum, SvelteKit, TypeScript, PHP, Laravel
+Rust, Axum, TypeScript, PHP, Laravel
 
 ### ⭐ Interests
 
@@ -30,7 +30,7 @@ HTML, CSS, JavaScript, React, PHP, Laravel
 
 ### 💻 エンジニア
 
-Rust(Axum), SvelteKit, DB設計, 画面設計
+Laravel, Rust(Axum), DB設計, 画面設計
 
 
 
